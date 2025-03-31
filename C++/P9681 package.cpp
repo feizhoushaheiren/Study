@@ -15,7 +15,7 @@ int dfs(int u,int sum){
 
 
 }
-
+//主函数
 int main(){
     memset(dp,-1,sizeof(dp));
     cin>>n>>m;
